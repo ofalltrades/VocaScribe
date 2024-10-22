@@ -1,0 +1,8 @@
+*.mp3
+*wav
+
+build
+dist
+*.egg*
+
+test_audio.txt
